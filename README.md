@@ -1,1 +1,7 @@
-# BVC
+### BVC
+
+## Values
+ - Inclusivity
+ - Respect
+ - BREAD
+
