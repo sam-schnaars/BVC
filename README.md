@@ -10,6 +10,8 @@ code example
 
 ### Image example
 
+Hyperlink example [text](https://guides.github.com/features/mastering-markdown/).
+
 <img src="IMG_6914.jpg"/>
 
-Hyperlink example [text](https://guides.github.com/features/mastering-markdown/).
+
