@@ -1,6 +1,6 @@
 ## BVC Template Help
 
-**Bold Text Example:** 
+**Bold Text Example:** Regular text example
 
 ### Heading 2
 
